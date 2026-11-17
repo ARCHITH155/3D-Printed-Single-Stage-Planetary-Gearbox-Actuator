@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="IMG/hero.jpg" width="600" alt="Assembled planetary gearbox actuator">
+  <img src="IMG/hero.jpg.jpeg" width="600" alt="Assembled planetary gearbox actuator">
 </p>
 
 ---
